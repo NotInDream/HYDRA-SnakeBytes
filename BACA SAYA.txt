@@ -1,0 +1,4 @@
+import snakebytesrpl.unitypackage ke unity untuk melihat asset, script, source code, scene dll.
+Folder Snakebytes Testing Demo Edition V2 digunakan untuk memainkan game dari tubes Snakebytes RPL tanpa unity
+
+link download folder : https://drive.google.com/file/d/1GMu23u-EOBopQc-SDoZab9biTglr3CvZ/view?usp=drive_link
